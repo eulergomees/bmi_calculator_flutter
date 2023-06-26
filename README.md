@@ -1,6 +1,6 @@
-# imc_calculator
+# bmi_calculator
 
-imc calculator
+bmi calculator
 
 ## Getting Started
 
